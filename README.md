@@ -1,4 +1,5 @@
 #test Repo
 New text
 
-SOme more text
+Some more text
+Changes fix2
